@@ -1,0 +1,14 @@
+{
+  "name": "aleee000bot",
+  "version": "0.0.1",
+  "description": "First NodeJs",
+  "main": "server.js",
+  "keywords": [
+    "node"
+  ],
+  "dependencies": {
+    "unirest": "^0.4.2"
+  },
+  "author": "alessandro franceschetti",
+  "license": "BSD-2-Clause"
+}
